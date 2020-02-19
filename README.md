@@ -1,5 +1,5 @@
 # Distributed-constraint-satisfaction
- Example of algorithms used to solve multiagent distributed constraint problems
+ Example of algorithms used to solve multiagent distributed constraint problems.
 
 ## Asyncronous-backtracking-algorithm
 Uses hyper-resolution and asyncronous backtracking to send Nogood constraints to agents based on priority order.
