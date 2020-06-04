@@ -3,7 +3,7 @@
 Created on Tue Feb 18 00:38:33 2020
 @author: Pieter Cawood
 @description:   Asyncronous-Backtracking-Algorithm for a distributed constraint satisfaction problem.
-                This example is reffered to as the N-Queen problem and the solution is found recursively,
+                This N-Queen problem is solved recursively,
                 which limits the size to 4x4 chess board.
                 Future work is to implement threads to reduce recursion and improve agent initialization.
 """
