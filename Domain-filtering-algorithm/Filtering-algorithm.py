@@ -2,7 +2,7 @@
 Created on Mon Feb 17 15:54:33 2020
 @author: Nicolaas Pieter Cawood
 @description:   Arc consistency/ Filtering algorithm that allows the reduction of agent domains
-                for a CSP (Constrain Solution problem)
+                for a CSP (Constraint satisfaction problem)
 """
 
 class Agent(object): 
